@@ -1,0 +1,32 @@
+{
+  "name": "Node.js-TemplateServer",
+  "version": "1.0.0",
+  "description": "Provide a general node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Smith",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.13.4",    
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2",
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.3.3",
+    "mongodb": "^2.2.4",
+    "connect-flash": "*",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.5.7",
+    "passport": "~0.2.0",
+    "express-validator": "*",
+    "passport-local": "~1.0.0",
+    "express-session": "~1.0.0",
+    "passport-local-mongoose": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository" : { 
+   "type" : "git",
+   "url" : "https://github.com/npm/npm.git"
+ }
+}
