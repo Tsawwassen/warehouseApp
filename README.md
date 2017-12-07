@@ -1,2 +1,0 @@
-# warehouseApp
-Warehouse Management App
