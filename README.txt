@@ -12,7 +12,7 @@ Description
 		Handlebars templete processor 
 		Bootstrap front-end framework
 
-Application Pages
+Application Pages, views folder
 	Add Items, add items to the items database
 	Assign VR, assign a skid to a location, given VR ID
 	Create PO, create a purchase order (PO), return PO #
